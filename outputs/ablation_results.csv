@@ -1,0 +1,4 @@
+Configuration,CAGR %,Sharpe,MaxDD %,Rs1 ->
+Baseline (equal weight),20.31,1.17,-35.05,2.72
++ Risk agent,20.0,1.17,-34.41,2.68
++ Hedge agent,19.99,1.24,-33.21,2.68
